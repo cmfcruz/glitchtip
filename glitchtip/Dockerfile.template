@@ -1,0 +1,3 @@
+FROM glitchtip/glitchtip:v1.12.1
+
+COPY settings.py /code/glitchtip/settings.py
